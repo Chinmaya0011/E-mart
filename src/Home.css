@@ -1,0 +1,10 @@
+/* Home.css */
+/* Style the custom buttons */
+.custom-button {
+    width: 50%; /* Set the button width to 50% of the parent container's width */
+    padding: 10px; /* Add some padding for better appearance */
+    margin: 5px; /* Add margin for spacing between buttons */
+    align-items: center; /* Align items in the center */
+    text-align: center; /* Center-align the text */
+  }
+  
